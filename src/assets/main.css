@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.clash {
+    font-family: 'Clash Grotesk', sans-serif;
+}
+
+h1{
+    font-size: 19vw;
+    line-height: 0.79;
+}
